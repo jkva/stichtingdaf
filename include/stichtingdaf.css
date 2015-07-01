@@ -70,6 +70,16 @@ header h1, header h2 {
                 text-decoration: none;
             }
 
+#gallery {
+    list-style-type: none;
+}
+
+#gallery li {
+    display: inline-block;
+    margin: 3px;
+    padding: 0px;
+}
+
 section#stichting {
     margin-top: 30px;
     border-top: 3px solid #000;
