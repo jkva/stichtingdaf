@@ -91,6 +91,7 @@ section > h2 {
 
 section .announcement {
     color : gold;
+    font-size: 20px;
 }
 
 footer {
