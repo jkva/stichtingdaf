@@ -85,25 +85,38 @@ section#stichting {
     border-top: 3px solid #000;
 }
 
+section#bestuur figure {
+    text-align: center;
+}
+
+section#bestuur figcaption {
+    margin: auto 5em;
+    text-align: left;
+}
+
 section > h2 {
     border-bottom: 1px solid #dedede;
 }
 
-section .announcement {
-    color : gold;
+section.announcement {
+    color : #000;
     font-size: 20px;
     text-align: center;
 }
 
-section .announcement h3 {
+section.announcement img {
+    border: 2px solid #c3c3c3;
+}
+
+section.announcement h3 {
     font-size: 40px;
 }
 
-section .announcement h4 {
+section.announcement h4 {
     font-size: 30px;
 }
 
-section .announcement h5 {
+section.announcement h5 {
     font-size: 20px;
     width: 40%;
     margin: auto;
